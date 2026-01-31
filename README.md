@@ -1,4 +1,4 @@
-<!-- Template:
+
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
@@ -18,7 +18,7 @@
 - 🧰 Languages: Java, VHDL, HTML/CSS, JavaScript
 - 🔭 Focus: Game Development, Digital Logic Design, Web Development
 - ❤️ Interests: Computer Architecture, Software Engineering, Creative Coding
--->
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
