@@ -3,21 +3,21 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Rola Radwan (rollluy). I'm a Computer Engineering student at TMU working on a variety of projects including game development, electronics, and web development with a focus on Java, VHDL, and modern web technologies.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Toronto, Ontario
+- 🎓 Education: Computer Engineering @ Toronto Metropolitan University
+- 📅 Hacking Since: 2025
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [adventure-game](https://github.com/rollluy/adventure-game) — 2D adventure minigame inspired by Omocat's Omori. (Java) — github.com/rollluy/adventure-game
+- 🛠️ [roller-coaster](https://github.com/rollluy/roller-coaster) — App that checks user eligibility to ride a roller coaster based on height and health conditions. (Java) — github.com/rollluy/roller-coaster
+- 🤖 [ALU](https://github.com/rollluy/ALU) — VHDL code to design and construct an Arithmetic Logic Unit for COE328 lab. (VHDL) — github.com/rollluy/ALU
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: Java, VHDL, HTML/CSS, JavaScript
+- 🔭 Focus: Game Development, Digital Logic Design, Web Development
+- ❤️ Interests: Computer Architecture, Software Engineering, Creative Coding
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
