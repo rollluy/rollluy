@@ -1,6 +1,6 @@
 
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<!--[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)-->
 
 ## About
 👋 Heyo, I'm Rola Radwan (rollluy). I'm a Computer Engineering student at TMU working on a variety of projects including game development, electronics, and web development with a focus on Java, VHDL, and modern web technologies.
