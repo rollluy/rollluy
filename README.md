@@ -1,13 +1,14 @@
 
 <!--[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)-->
-<img align="left" width="498" height="205" alt="2zO8QWD" src="https://github.com/user-attachments/assets/69f26fc2-3918-4305-ae62-d77777c23b60" />
+
+<header><img align="left" width="498" height="205" alt="2zO8QWD" src="https://github.com/user-attachments/assets/69f26fc2-3918-4305-ae62-d77777c23b60" />
 
 
 
 
 <!--## About-->
-Hey! It's Rola.
+Hey! It's Rola.</header>
 
 ## Details
 - 📍 Location: Toronto, Ontario
