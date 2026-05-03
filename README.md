@@ -9,6 +9,7 @@
 <!--## About-->
 Hey! It's Rola.
 
+## Details
 - 📍 Location: Toronto, Ontario
 - 🎓 Education: Computer Engineering @ Toronto Metropolitan University
 - 📅 Hacking Since: 2025
