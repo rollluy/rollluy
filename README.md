@@ -5,8 +5,8 @@
 
 
 
-## About
-👋 Heyo, I'm Rola Radwan (rollluy). I'm a Computer Engineering student at TMU working on a variety of projects including game development, electronics, and web development with a focus on Java, VHDL, and modern web technologies.
+<!--## About-->
+Hey! It's Rola.
 
 - 📍 Location: Toronto, Ontario
 - 🎓 Education: Computer Engineering @ Toronto Metropolitan University
