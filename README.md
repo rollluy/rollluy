@@ -3,7 +3,7 @@
 
 <p align="right"><h1>Hey! It's Rola.</h1></p>
 
-<!--## Details-->]
+<!--## Details-->
 ## about me
 I'm a third-year Computer Engineering student at Toronto Metropolitan University, specializing in Software Engineering.
 
