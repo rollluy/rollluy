@@ -3,16 +3,9 @@
 
 <p align="right"><h1>Hey! It's Rola.</h1></p>
 
-<!--## Details-->
-I'm a third-year Computer Engineering student at Toronto Metropolitan University.
+<!--## Details-->]
+## about me
+I'm a third-year Computer Engineering student at Toronto Metropolitan University, specializing in Software Engineering.
 
-<!--## Featured Projects
-- 🎲 [adventure-game](https://github.com/rollluy/adventure-game) — 2D adventure minigame inspired by Omocat's Omori. (Java) — github.com/rollluy/adventure-game
-- 🛠️ [roller-coaster](https://github.com/rollluy/roller-coaster) — App that checks user eligibility to ride a roller coaster based on height and health conditions. (Java) — github.com/rollluy/roller-coaster
-- 🤖 [ALU](https://github.com/rollluy/ALU) — VHDL code to design and construct an Arithmetic Logic Unit for COE328 lab. (VHDL) — github.com/rollluy/ALU-->
 
-<!--## Tech & Interests
-- 🧰 Languages: Java, VHDL, HTML/CSS, JavaScript
-- 🔭 Focus: Game Development, Digital Logic Design, Web Development
-- ❤️ Interests: Computer Architecture, Software Engineering, Creative Coding-->
 
